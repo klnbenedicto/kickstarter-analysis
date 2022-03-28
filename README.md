@@ -8,13 +8,13 @@ After getting close to reaching her fundraising goal, Louise wants to know how t
 
 ## Analysis and Challenges
 
-![Outcomes Based on Launch Date](/assets/images/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Launch Date 
 
 Theater Outcomes by Launch Date is a visual representation of the success, failure, and cancelation of theater campaigns based on the month the campaign went live. To get this chart, I created a pivot table with filters for Year and Parent Category and then filtered for theater campaigns. The columns were set to Outcomes, rows to Date Created, and the values of the table are the Outcome of Campaign. Once I had a pivot table, I created a line graph and added a chart title and axis labels.
 
-![Outcomes Based on Goals](/assets/images/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
